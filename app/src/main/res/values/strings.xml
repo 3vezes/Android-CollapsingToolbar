@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Android-CollapsingToolbar</string>
+  <string name="hello_world">Hello world!</string>
+  <string name="action_settings">Settings</string>
+  <string name="desc_banner">Green Scooter</string>
+  <string name="title_collapsing_toolbar">Collapsing Toolbar</string>
+</resources>
